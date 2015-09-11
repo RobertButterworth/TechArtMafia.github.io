@@ -1,6 +1,6 @@
 Technical Artist|||||
 ---|---|---|---|---|
-**TASKS REQUIRED FOR PARTICULAR LEVEL**|**J**|**M**|**S**|**D**|
+**TASKS REQUIRED FOR PARTICULAR LEVEL**|**Jnr**|**Mid**|**Snr**|**Dir**|
 ||||
 **ROLE DESCRIPTION / ROLE SPECIFIC RESPONSIBILITIES:**|||||
 Provide documentation of art processes and assist in defining the art pipeline within the assigned project.|x|x|x|x|
